@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/increasing-triplet-subsequence
 
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:

@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
 
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:

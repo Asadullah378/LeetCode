@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/string-compression
 
 class Solution:
     def compress(self, chars: List[str]) -> int:
